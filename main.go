@@ -2,11 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/urfave/cli"
 	"log"
 	"os"
 	"path/filepath"
-	"rigger/rigger"
+
+	"github.com/urfave/cli"
+	"github.com/yangjishen/rigger/rigger"
 )
 
 func main() {
