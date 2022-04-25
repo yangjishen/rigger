@@ -1,4 +1,4 @@
-module rigger
+module github.com/yangjishen/rigger
 
 go 1.17
 
